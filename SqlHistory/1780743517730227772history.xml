@@ -1,0 +1,11 @@
+<?xml version='1.0'  encoding='UTF-8' ?>
+<history>
+	<historyItem>
+		<sql><![CDATA[file:/E:/oracle_practise/cases.sql]]></sql>
+		<connection><![CDATA[variable]]></connection>
+		<timestamp><![CDATA[1719009446482]]></timestamp>
+		<type><![CDATA[Script]]></type>
+		<executed><![CDATA[10]]></executed>
+		<execTime><![CDATA[0.0]]></execTime>
+	</historyItem>
+</history>

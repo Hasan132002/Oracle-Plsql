@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:git-auth xmlns:ns2="http://xmlns.oracle.com/jdeveloper/12/git/auth">
+    <gitAuth>
+        <url>https://github.com/Hasan132002/Oracle-Plsql.git</url>
+        <user>hasanraza132002@gmail.com</user>
+        <remote>origin</remote>
+        <time>1719010727193</time>
+    </gitAuth>
+</ns2:git-auth>

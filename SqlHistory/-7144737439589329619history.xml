@@ -1,0 +1,11 @@
+<?xml version='1.0'  encoding='UTF-8' ?>
+<history>
+	<historyItem>
+		<sql><![CDATA[file:/C:/Users/CORECOM/testdb.sql]]></sql>
+		<connection><![CDATA[testdb]]></connection>
+		<timestamp><![CDATA[1719002363480]]></timestamp>
+		<type><![CDATA[Script]]></type>
+		<executed><![CDATA[44]]></executed>
+		<execTime><![CDATA[0.009]]></execTime>
+	</historyItem>
+</history>

@@ -1,0 +1,12 @@
+CREATE TABLE employees (
+    employee_id NUMBER(5) PRIMARY KEY,
+    first_name VARCHAR2(50),
+    last_name VARCHAR2(50),
+    email VARCHAR2(100),
+    hire_date DATE,
+    salary NUMBER(10, 2),
+    department_id NUMBER(4)
+);
+
+
+select * from employees
